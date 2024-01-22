@@ -1,0 +1,30 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    width: 80%;
+    height: 300px;
+}
+div{
+    background-color:coral;
+    padding-left: 40px;
+    margin-right: 50px;
+}
+.division1{
+    background-color:darkred;
+}
+.division2{
+    background-color: darkmagenta;
+}
+.division3{
+    background-color:skyblue;
+}
+#main{
+    background-color: greenyellow;
+    display:flex;
+    padding-top: 30px;
+}
+.image{
+    display: flex;
+}
